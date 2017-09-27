@@ -1,0 +1,28 @@
+{
+  "name": "PredictIOPlugin",
+  "version": "3.2.0",
+  "description": "PredictIO",
+  "cordova": {
+    "id": "cordova-plugin-predict-io",
+    "platforms": [
+      "android",
+      "iOS"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/predict-io/PredictIO-Cordova.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "predict-io",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/predict-io/PredictIO-Cordova/issues"
+  },
+  "homepage": "https://github.com/predict-io/PredictIO-Cordova#readme"
+}
